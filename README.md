@@ -2,10 +2,11 @@
 
 ## I'm a Front End Developer base in Toronto, Canada
 
-<div align="center">
+<div align="center";
+>
   <a href="https://github.com/Gabriel-Moraes-CAD">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moraes-CAD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moraes-CAD&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Moraes-CAD&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Moraes-CAD&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <br/>
