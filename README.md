@@ -1,6 +1,6 @@
 # Hello, my name is Gabriel.
 
-## I'm a Front End Developer base in Toronto, Canada
+## I'm a Front End Developer based in Toronto, Canada
 
 <div align="center";
 >
