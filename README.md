@@ -52,8 +52,4 @@
 
 </div>
   
-  ## Website
-  
-  
-![[Website](https://gabriel-moraes-cad.github.io/Gabriel-Moraes/html/index.html)](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fgabriel-moraes-cad.github.io%2FGabriel-Moraes%2Fhtml%2Findex.html)
   
