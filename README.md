@@ -54,6 +54,6 @@
   
   ## Website
   
-  <div>
-![Website](https://img.shields.io/website?style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Fgabriel-moraes-cad.github.io%2FGabriel-Moraes%2Fhtml%2Findex.html)
-  </div>
+  
+![Website](https://img.shields.io/website?style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fgabriel-moraes-cad.github.io%2FGabriel-Moraes%2Fhtml%2Findex.html)
+  
