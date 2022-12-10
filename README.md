@@ -49,6 +49,11 @@
 <div width="30px" align="left"  >
   <a href="https://www.linkedin.com/in/gabriel-moraes-a51ab3143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![Website](https://img.shields.io/website?style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Fgabriel-moraes-cad.github.io%2FGabriel-Moraes%2Fhtml%2Findex.html)
 
 </div>
+  
+  ## Website
+  
+  <div>
+![Website](https://img.shields.io/website?style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Fgabriel-moraes-cad.github.io%2FGabriel-Moraes%2Fhtml%2Findex.html)
+  </div>
